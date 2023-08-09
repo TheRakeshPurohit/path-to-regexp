@@ -346,7 +346,7 @@ MIT
 [downloads-image]: https://img.shields.io/npm/dm/path-to-regexp
 [downloads-url]: https://npmjs.org/package/path-to-regexp
 [build-image]: https://img.shields.io/github/workflow/status/pillarjs/path-to-regexp/CI/master
-[build-url]: https://github.com/pillarjs/path-to-regexp/actions/workflows/ci.yml?query=branch%3Amaster
+[build-url]: https://img.shields.io/github/actions/workflow/status/pillarjs/path-to-regexp/ci.yml?branch=master
 [coverage-image]: https://img.shields.io/codecov/c/gh/pillarjs/path-to-regexp
 [coverage-url]: https://codecov.io/gh/pillarjs/path-to-regexp
 [license-image]: http://img.shields.io/npm/l/path-to-regexp.svg?style=flat
